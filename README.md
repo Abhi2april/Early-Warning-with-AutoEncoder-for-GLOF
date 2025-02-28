@@ -1,4 +1,4 @@
-# Early-Warning with AutoEncoder for GLOF
+# Early-Warning with AutoEncoder for GLOF -> OUR SOLUTION IN SMART INDIA HACKATHON'S PROBLEM STATEMENT -VISIT OUR [WEBSITE](https://glof-plum.vercel.app/)
 
 Glacial Lake Outburst Floods (GLOFs) are a significant climate-induced hazard, requiring innovative solutions for timely prediction and mitigation. This study presents a multifaceted Early Warning System (EWS) for GLOFs, integrating satellite data, time-series analysis, and deep learning. Using Google Earth Engine (GEE), a curated dataset of key parameters—snow reflux, temperature, precipitation, lake size, and water level—was preprocessed to ensure accuracy and consistency. Seasonal and trend decomposition, coupled with anomaly detection via convolutional autoencoders (CAEs), identified deviations in meteorological patterns indicative of potential GLOF events.
 
