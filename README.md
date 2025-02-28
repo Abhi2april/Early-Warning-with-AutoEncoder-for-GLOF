@@ -26,91 +26,34 @@ The model trained on historical data using a 90-10 train-test split and rolling 
 
 
 ## References
-6. REFERENCES
-[1] S. Harrison, J. S. Kargel, C. Huggel, J. Reynolds, D. H.
-Shugar, R. A. Betts, A. Emmer, N. Glasser, U. K. Haritashya,
-J. Klimeˇs, L. Reinhardt, Y. Schaub, A.Wiltshire,
-D. Regmi, and V. Vil´ımek, “Climate change and the
-global pattern of moraine-dammed glacial lake outburst
-floods,” The Cryosphere, vol. 12, no. 4, pp. 1195–1209,
-2018.
-[2] Rayees Ahmed, Gowhar Farooq Wani, Syed Towseef
-Ahmad, Mehebub Sahana, Harmeet Singh, and Pervez
-Ahmed, “A review of glacial lake expansion and associated
-glacial lake outburst floods in the himalayan region,”
-Earth Systems and Environment, vol. 5, no. 3, pp.
-695–708, 2021.
-[3] Nazir Ahmed Bazai, Peng Cui, Paul A Carling, Hao
-Wang, Javed Hassan, Dingzhu Liu, Guotao Zhang, and
-Wen Jin, “Increasing glacial lake outburst flood hazard
-in response to surge glaciers in the karakoram,” Earth-
-Science Reviews, vol. 212, pp. 103432, 2021.
-[4] Yuchen Fang, Jiandong Xie, Yan Zhao, Lu Chen, Yunjun
-Gao, and Kai Zheng, “Temporal-frequency masked
-autoencoders for time series anomaly detection,” in
-2024 IEEE 40th International Conference on Data Engineering
-(ICDE), 2024, pp. 1228–1241.
-[5] Pratima Pandey, Prakash Chauhan, C. M. Bhatt,
-Praveen K. Thakur, Suresh Kannaujia, Pankaj R. Dhote,
-Arijit Roy, Santosh Kumar, Sumer Chopra, Ashutosh
-Bhardwaj, and S. P. Aggrawal, “Cause and process
-mechanism of rockslide triggered flood event in rishiganga
-and dhauliganga river valleys, chamoli, uttarakhand,
-india using satellite remote sensing and in situ
-observations,” Journal of the Indian Society of Remote
-Sensing, vol. 49, no. 5, pp. 1011–1024, May 2021.
-[6] Ashim Sattar, Ajanta Goswami, Anil.V. Kulkarni, Adam
-Emmer, Umesh K. Haritashya, Simon Allen, Holger
-Frey, and Christian Huggel, “Future glacial lake outburst
-flood (glof) hazard of the south lhonak lake, sikkim
-himalaya,” Geomorphology, vol. 388, pp. 107783, 2021.
-[7] Ashim Sattar, Ajanta Goswami, and Anil V. Kulkarni,
-“Hydrodynamic moraine-breach modeling and outburst
-flood routing - a hazard assessment of the south lhonak
-lake, sikkim,” Science of The Total Environment, vol.
-668, pp. 362–378, 2019.
-[8] Caroline Taylor, Tom R Robinson, Stuart Dunning,
-J Rachel Carr, and MatthewWestoby, “Glacial lake outburst
-floods threaten millions globally,” Nature Communications,
-vol. 14, no. 1, pp. 487, 2023.
-[9] Noel Gorelick, Matt Hancher, Mike Dixon, Simon
-Ilyushchenko, David Thau, and Rebecca Moore,
-“Google earth engine: Planetary-scale geospatial analysis
-for everyone,” Remote Sensing of Environment, vol.
-202, pp. 18–27, 2017, Big Remotely Sensed Data: tools,
-applications and experiences.
-[10] Sanjaya Gurung, Saroj Dhoj Joshi, and Binod Parajuli,
-“Overview of an early warning system for glacial
-lake outburst flood risk mitigation in dudh-koshi basin,
-nepal,” Sciences in Cold and Arid Regions, vol. 13, no.
-3, pp. 206–219, 2021.
-[11] Salvador Garc´ıa, Sergio Ram´ırez-Gallego, Juli´an Luengo,
-Jos´e Manuel Ben´ıtez, and Francisco Herrera, “Big
-data preprocessing: methods and prospects,” Big Data
-Analytics, vol. 1, no. 1, pp. 9, 2016.
-[12] Pankaj Malhotra, Anusha Ramakrishnan, Gaurangi
-Anand, Lovekesh Vig, Puneet Agarwal, and Gautam
-Shroff, “Lstm-based encoder-decoder for multi-sensor
-anomaly detection,” 2016.
-[13] Haipeng Ji, Xiaoqiang Qiao, Jiang Zhang, Yihang Du,
-Tao Zhang, and Fayu Wan, “Spectrum anomaly detection
-under multiple sensors using metric-adversarial
-learning,” IEEE Communications Letters, 2025.
-[14] Hongsong Chen, Xingyu Li, and Wenmao Liu, “Multivariate
-time series anomaly detection by fusion of deep
-convolution residual autoencoding reconstruction model
-and convlstm forecasting model,” Computers Security,
-vol. 137, pp. 103581, 2024.
-[15] A. Emmer, S. K. Allen, M. Carey, H. Frey, C. Huggel,
-O. Korup, M. Mergili, A. Sattar, G. Veh, T. Y. Chen, S. J.
-Cook, M. Correas-Gonzalez, S. Das, A. Diaz Moreno,
-F. Drenkhan, M. Fischer, W. W. Immerzeel, E. Izagirre,
-R. C. Joshi, I. Kougkoulos, R. Kuyakanon Knapp, D. Li,
-U. Majeed, S. Matti, H. Moulton, F. Nick, V. Piroton,
-I. Rashid, M. Reza, A. Ribeiro de Figueiredo,
-C. Riveros, F. Shrestha, M. Shrestha, J. Steiner,
-N. Walker-Crawford, J. L. Wood, and J. C. Yde,
-“Progress and challenges in glacial lake outburst flood
-research (2017–2021): a research community perspective,”
-Natural Hazards and Earth System Sciences, vol.
-22, no. 9, pp. 3041–3061, 2022.
+## References
+
+[1] S. Harrison, J. S. Kargel, C. Huggel, J. Reynolds, D. H. Shugar, R. A. Betts, A. Emmer, N. Glasser, U. K. Haritashya, J. Klimeš, L. Reinhardt, Y. Schaub, A. Wiltshire, D. Regmi, and V. Vilímek, “Climate change and the global pattern of moraine-dammed glacial lake outburst floods,” *The Cryosphere*, vol. 12, no. 4, pp. 1195–1209, 2018.
+
+[2] Rayees Ahmed, Gowhar Farooq Wani, Syed Towseef Ahmad, Mehebub Sahana, Harmeet Singh, and Pervez Ahmed, “A review of glacial lake expansion and associated glacial lake outburst floods in the Himalayan region,” *Earth Systems and Environment*, vol. 5, no. 3, pp. 695–708, 2021.
+
+[3] Nazir Ahmed Bazai, Peng Cui, Paul A. Carling, Hao Wang, Javed Hassan, Dingzhu Liu, Guotao Zhang, and Wen Jin, “Increasing glacial lake outburst flood hazard in response to surge glaciers in the Karakoram,” *Earth-Science Reviews*, vol. 212, pp. 103432, 2021.
+
+[4] Yuchen Fang, Jiandong Xie, Yan Zhao, Lu Chen, Yunjun Gao, and Kai Zheng, “Temporal-frequency masked autoencoders for time series anomaly detection,” in *2024 IEEE 40th International Conference on Data Engineering (ICDE)*, 2024, pp. 1228–1241.
+
+[5] Pratima Pandey, Prakash Chauhan, C. M. Bhatt, Praveen K. Thakur, Suresh Kannaujia, Pankaj R. Dhote, Arijit Roy, Santosh Kumar, Sumer Chopra, Ashutosh Bhardwaj, and S. P. Aggrawal, “Cause and process mechanism of rockslide triggered flood event in Rishiganga and Dhauliganga river valleys, Chamoli, Uttarakhand, India using satellite remote sensing and in situ observations,” *Journal of the Indian Society of Remote Sensing*, vol. 49, no. 5, pp. 1011–1024, May 2021.
+
+[6] Ashim Sattar, Ajanta Goswami, Anil V. Kulkarni, Adam Emmer, Umesh K. Haritashya, Simon Allen, Holger Frey, and Christian Huggel, “Future glacial lake outburst flood (GLOF) hazard of the South Lhonak Lake, Sikkim Himalaya,” *Geomorphology*, vol. 388, pp. 107783, 2021.
+
+[7] Ashim Sattar, Ajanta Goswami, and Anil V. Kulkarni, “Hydrodynamic moraine-breach modeling and outburst flood routing - a hazard assessment of the South Lhonak Lake, Sikkim,” *Science of The Total Environment*, vol. 668, pp. 362–378, 2019.
+
+[8] Caroline Taylor, Tom R. Robinson, Stuart Dunning, J. Rachel Carr, and Matthew Westoby, “Glacial lake outburst floods threaten millions globally,” *Nature Communications*, vol. 14, no. 1, pp. 487, 2023.
+
+[9] Noel Gorelick, Matt Hancher, Mike Dixon, Simon Ilyushchenko, David Thau, and Rebecca Moore, “Google Earth Engine: Planetary-scale geospatial analysis for everyone,” *Remote Sensing of Environment*, vol. 202, pp. 18–27, 2017, Big Remotely Sensed Data: tools, applications and experiences.
+
+[10] Sanjaya Gurung, Saroj Dhoj Joshi, and Binod Parajuli, “Overview of an early warning system for glacial lake outburst flood risk mitigation in Dudh-Koshi Basin, Nepal,” *Sciences in Cold and Arid Regions*, vol. 13, no. 3, pp. 206–219, 2021.
+
+[11] Salvador García, Sergio Ramírez-Gallego, Julián Luengo, José Manuel Benítez, and Francisco Herrera, “Big data preprocessing: methods and prospects,” *Big Data Analytics*, vol. 1, no. 1, pp. 9, 2016.
+
+[12] Pankaj Malhotra, Anusha Ramakrishnan, Gaurangi Anand, Lovekesh Vig, Puneet Agarwal, and Gautam Shroff, “LSTM-based encoder-decoder for multi-sensor anomaly detection,” 2016.
+
+[13] Haipeng Ji, Xiaoqiang Qiao, Jiang Zhang, Yihang Du, Tao Zhang, and Fayu Wan, “Spectrum anomaly detection under multiple sensors using metric-adversarial learning,” *IEEE Communications Letters*, 2025.
+
+[14] Hongsong Chen, Xingyu Li, and Wenmao Liu, “Multivariate time series anomaly detection by fusion of deep convolution residual autoencoding reconstruction model and ConvLSTM forecasting model,” *Computers & Security*, vol. 137, pp. 103581, 2024.
+
+[15] A. Emmer, S. K. Allen, M. Carey, H. Frey, C. Huggel, O. Korup, M. Mergili, A. Sattar, G. Veh, T. Y. Chen, S. J. Cook, M. Correas-Gonzalez, S. Das, A. Diaz Moreno, F. Drenkhan, M. Fischer, W. W. Immerzeel, E. Izagirre, R. C. Joshi, I. Kougkoulos, R. Kuyakanon Knapp, D. Li, U. Majeed, S. Matti, H. Moulton, F. Nick, V. Piroton, I. Rashid, M. Reza, A. Ribeiro de Figueiredo, C. Riveros, F. Shrestha, M. Shrestha, J. Steiner, N. Walker-Crawford, J. L. Wood, and J. C. Yde, “Progress and challenges in glacial lake outburst flood research (2017–2021): a research community perspective,” *Natural Hazards and Earth System Sciences*, vol. 22, no. 9, pp. 3041–3061, 2022.
