@@ -26,7 +26,6 @@ The model trained on historical data using a 90-10 train-test split and rolling 
 
 
 ## References
-## References
 
 [1] S. Harrison, J. S. Kargel, C. Huggel, J. Reynolds, D. H. Shugar, R. A. Betts, A. Emmer, N. Glasser, U. K. Haritashya, J. Klimeš, L. Reinhardt, Y. Schaub, A. Wiltshire, D. Regmi, and V. Vilímek, “Climate change and the global pattern of moraine-dammed glacial lake outburst floods,” *The Cryosphere*, vol. 12, no. 4, pp. 1195–1209, 2018.
 
